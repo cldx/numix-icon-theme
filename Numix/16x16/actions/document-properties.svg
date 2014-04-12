@@ -1,7 +1,86 @@
-<svg width="16" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16">
-<path style="fill:#fff;fill-rule:evenodd" d="M 3.7142859,0 12.285715,0 C 14,0 14,0 14,1.7777778 L 14,14.222222 C 14,16 14,16 12.285715,16 L 3.7142859,16 C 2.0000001,16 2.0000001,16 2.0000001,14.222222 l 0,-12.4444442 C 2.0000001,0 2.0000001,0 3.7142859,0 z"/>
-<g style="fill:#268bd2" transform="translate(-8.47456 11.01694)">
-<path style="word-spacing:0;line-height:125%;letter-spacing:0" d="m 24.474556,4.98306 -4,0 0,-6 4,0 0,6"/>
-<path style="fill-rule:evenodd" d="m 24.474597,-5.0169622 c 0,1.104567 -0.895433,1.9999955 -2.000004,1.9999955 -1.104573,0 -2.000005,-0.8954285 -2.000005,-1.9999955 0,-1.1045669 0.895432,-1.9999953 2.000005,-1.9999953 1.104571,0 2.000004,0.8954284 2.000004,1.9999953 z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="document-properties.svg">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="41.7193"
+     inkscape:cx="14.406399"
+     inkscape:cy="6.0824223"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3011" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#eee8d5;fill-rule:evenodd"
+     d="M 3.7142859,0 12.285715,0 C 14,0 14,0 14,1.7777778 L 14,14.222222 C 14,16 14,16 12.285715,16 L 3.7142859,16 C 2.0000001,16 2.0000001,16 2.0000001,14.222222 l 0,-12.4444442 C 2.0000001,0 2.0000001,0 3.7142859,0 z"
+     id="path4" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;fill-opacity:1;opacity:0.2"
+     d="M 3.71875 0 C 2.0044642 0 2 0.0034722 2 1.78125 L 2 14.21875 C 2 15.996528 2.0044642 16 3.71875 16 L 12.28125 16 C 13.995535 16 14 15.996528 14 14.21875 L 14 1.78125 C 14 0.0034722 13.995535 0 12.28125 0 L 3.71875 0 z M 3 1 L 13 1 L 13 15 L 3 15 L 3 1 z "
+     id="path4-1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path8"
+     d="m 15.999996,16 -4,0 0,-6 4,0 0,6"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;fill:#2075b0;fill-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path10"
+     d="m 16.000037,5.9999778 c 0,1.104567 -0.895433,1.9999955 -2.000004,1.9999955 -1.104573,0 -2.000005,-0.8954285 -2.000005,-1.9999955 0,-1.1045669 0.895432,-1.9999953 2.000005,-1.9999953 1.104571,0 2.000004,0.8954284 2.000004,1.9999953 z"
+     style="fill:#2075b0;fill-rule:evenodd;fill-opacity:1" />
+  <path
+     style="fill:#268bd2;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="m 15,11 0,4 -2,0 0,-4 z"
+     id="path3784"
+     inkscape:connector-curvature="0" />
+  <path
+     sodipodi:type="arc"
+     style="opacity:1;fill:#268bd2;fill-opacity:1;stroke:none"
+     id="path3788"
+     sodipodi:cx="14"
+     sodipodi:cy="6"
+     sodipodi:rx="1"
+     sodipodi:ry="1"
+     d="m 15,6 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z" />
 </svg>
