@@ -32,7 +32,7 @@
      bordercolor="#666666"
      borderopacity="1"
      inkscape:current-layer="layer12"
-     inkscape:cx="10.213459"
+     inkscape:cx="4.213459"
      inkscape:cy="7.89106"
      gridtolerance="10"
      inkscape:guide-bbox="true"
@@ -59,7 +59,7 @@
      inkscape:window-width="1366"
      inkscape:window-x="0"
      inkscape:window-y="28"
-     inkscape:zoom="32">
+     inkscape:zoom="22.627417">
     <inkscape:grid
        empspacing="2"
        enabled="true"
@@ -140,41 +140,53 @@
      inkscape:label="actions"
      style="display:inline"
      transform="translate(-61.0004,-867)">
-    <rect
-       height="4"
-       id="rect13371"
-       rx="0.52497357"
-       ry="0.46910995"
+    <path
        style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       width="6.0000005"
-       x="62.000401"
-       y="870" />
-    <rect
-       height="4"
-       id="rect13371-1"
-       rx="0.52497357"
-       ry="0.46910995"
+       d="M 1.53125 2 C 1.2404146 2 1 2.2688913 1 2.59375 L 1 6.40625 C 1 6.7311087 1.2404146 7 1.53125 7 L 6.46875 7 C 6.7595854 7 7 6.7311087 7 6.40625 L 7 2.59375 C 7 2.2688913 6.7595854 2 6.46875 2 L 1.53125 2 z M 1.96875 2.96875 L 6 2.96875 L 6 6 L 1.96875 6 L 1.96875 2.96875 z "
+       transform="translate(61.0004,867)"
+       id="rect13371" />
+    <path
        style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       width="6.0000005"
-       x="70.031647"
-       y="870" />
-    <rect
-       height="4"
-       id="rect13371-16"
-       rx="0.52497357"
-       ry="0.46910995"
+       d="M 9.5625 3 C 9.2716646 3 9.03125 3.2088631 9.03125 3.46875 L 9.03125 6.53125 C 9.03125 6.7911369 9.2716646 7 9.5625 7 L 14.5 7 C 14.790835 7 15.03125 6.7911369 15.03125 6.53125 L 15.03125 3.46875 C 15.03125 3.2088631 14.790835 3 14.5 3 L 9.5625 3 z M 10 4 L 14.03125 4 L 14.03125 6 L 10 6 L 10 4 z "
+       transform="translate(61.0004,867)"
+       id="rect13371-1" />
+    <path
        style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       width="6.0000005"
-       x="62.000401"
-       y="876.03125" />
+       d="M 2.4375 9.03125 C 2.1951372 9.03125 2 9.1821152 2 9.375 L 2 11.65625 C 2 11.849135 2.1951372 12 2.4375 12 L 6.5625 12 C 6.8048628 12 7 11.849135 7 11.65625 L 7 9.375 C 7 9.1821152 6.8048628 9.03125 6.5625 9.03125 L 2.4375 9.03125 z M 3 9.96875 L 5.96875 9.96875 L 5.96875 11.03125 L 3 11.03125 L 3 9.96875 z "
+       transform="translate(61.0004,867)"
+       id="rect13371-16" />
     <rect
-       height="4"
+       height="1.96875"
        id="rect13371-1-5"
-       rx="0.52497357"
-       ry="0.46910995"
+       rx="0.34724841"
+       ry="0.23089005"
        style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       width="6.0000005"
+       width="3.9687533"
        x="70.031647"
        y="876.03125" />
+    <rect
+       style="fill:#bebebe;fill-opacity:1;stroke:none;opacity:0.53287197"
+       id="rect3043"
+       width="4.125"
+       height="1.96875"
+       x="9.875"
+       y="4"
+       transform="translate(61.0004,867)" />
+    <rect
+       style="opacity:0.53287198;fill:#bebebe;fill-opacity:1;stroke:none"
+       id="rect3815"
+       width="4.03125"
+       height="3.03125"
+       x="1.96875"
+       y="2.96875"
+       transform="translate(61.0004,867)" />
+    <rect
+       style="opacity:0.53287198;fill:#bebebe;fill-opacity:1;stroke:none"
+       id="rect3836"
+       width="2.96875"
+       height="1.0625"
+       x="3"
+       y="9.96875"
+       transform="translate(61.0004,867)" />
   </g>
 </svg>
