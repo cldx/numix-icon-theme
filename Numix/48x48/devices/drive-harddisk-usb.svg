@@ -40,9 +40,9 @@
      inkscape:window-height="704"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="6.9532168"
+     inkscape:zoom="55.625734"
      inkscape:cx="28.498524"
-     inkscape:cy="17.535403"
+     inkscape:cy="9.8411226"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -59,9 +59,10 @@
      sodipodi:nodetypes="scsssscs" />
   <path
      style="opacity:0.39446369;fill:#ffffff;fill-opacity:1;stroke:none"
-     d="m 27,39.749998 0,-25.65625 2,0 0,24.6875 c -0.525813,0.411325 -1.186183,0.751214 -2,0.96875 z"
+     d="m 27,39.426407 0,-25.332659 2,0 0,24.040318 c -0.525813,0.411325 -1.186183,1.074805 -2,1.292341 z"
      id="rect3761"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
   <rect
      style="fill:#657b83;fill-opacity:1;stroke:none"
      id="rect3763"
