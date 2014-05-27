@@ -13,20 +13,21 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="battery-caution-symbolic.svg">
+   sodipodi:docname="battery-low-symbolic.svg">
   <metadata
-     id="metadata12">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10" />
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -37,25 +38,31 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="740"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="33.245117"
-     inkscape:cx="8.0601592"
+     inkscape:window-height="704"
+     id="namedview6"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="1.4915254"
      inkscape:cy="8"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2987" />
+  </sodipodi:namedview>
   <path
-     d="M 5,0 5,2 2,2 2,16 14,16 14,2 11,2 11,0 z"
-     opacity="0.6"
-     fill="#bebebe"
-     id="path4" />
-  <path
-     d="m 2,12 0,4 12,0 0,-4 z"
-     id="path6"
-     class="warning"
+     d="M 6,2 6,3 4,3 C 3,3 3,4 3,4 l 0,10 c 0,0 0,1 1,1 l 8,0 c 1,0 1,-1 1,-1 L 13,4 C 13,4 13,3 12,3 L 10,3 10,2 C 10,2 10,1 9,1 L 7,1 C 6,1 6,2 6,2 z"
+     id="path4"
      inkscape:connector-curvature="0"
-     style="fill:#ff8000" />
+     style="fill:#bebebe;fill-opacity:0.47389558"
+     sodipodi:nodetypes="ccccccccccccccc" />
+  <path
+     style="fill:#cb6d16;fill-opacity:1"
+     d="m 3,12 0,2 c 0,0 0,1 1,1 l 8,0 c 1,0 1,-1 1,-1 l 0,-2 z"
+     id="path4-1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccssccc"
+     class="warning" />
 </svg>

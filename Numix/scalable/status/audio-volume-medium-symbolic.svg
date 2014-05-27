@@ -1,18 +1,123 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" viewBox="0 0 16 16" height="16">
- <defs>
-  <clipPath>
-   <rect x="26.999" y="221.5" width="1.876" height="4.874" fill="#bebebe" color="#bebebe"/>
-  </clipPath>
-  <clipPath>
-   <rect x="26.966" y="221.33" width="2.898" height="5.216" fill="#bebebe" color="#bebebe"/>
-  </clipPath>
-  <clipPath>
-   <rect x="26.85" y="220.75" width="3.825" height="6.375" fill="#bebebe" color="#bebebe"/>
-  </clipPath>
- </defs>
- <path d="M 5,3 2,6 2,10 5,13 5,9 6,8 5,7 z" fill="#bebebe"/>
- <path d="M 1.300003,6 C 0.216589,6 0,6.2364797 0,7.4732107 l 0,1.285715 C 0,9.9956727 0.24312,10 1.300003,10 L 3,10 3,6 z" fill="#bebebe"/>
- <path d="M 8,5 7,6 c 1.074549,1.1114985 1.074549,2.888502 0,4 l 1,1 C 9.701419,9.2400757 9.701419,6.759924 8,5 z" color="#000000" fill="#bebebe"/>
- <path d="m 9.1904329,4.7194021 c 1.7657041,1.7657042 1.7964861,4.78751 0.030782,6.5532139 l 1.4019691,1.401969 c 2.5301,-2.530101 2.499318,-6.827051 -0.03078,-9.3571516 z" fill="#bebebe" color="#000000"/>
- <path d="m 11.372266,2.7576045 c 2.93737,2.93737 2.93737,7.7294295 0,10.6668005 l 1.416684,1.416684 c 3.701647,-3.701646 3.701647,-9.7985226 0,-13.5001689 z" opacity="0.3" fill="#bebebe" color="#000000"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   viewBox="0 0 16 16"
+   height="16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="audio-volume-low-symbolic.svg">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview32"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="6.9152542"
+     inkscape:cy="7.5571551"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3011" />
+    <sodipodi:guide
+       orientation="-0.65850461,0.75257669"
+       position="5,8"
+       id="guide3920" />
+    <sodipodi:guide
+       orientation="0.65850461,0.75257669"
+       position="5,8"
+       id="guide3922" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath6">
+      <rect
+         x="26.999"
+         y="221.5"
+         width="1.876"
+         height="4.874"
+         fill="#bebebe"
+         color="#bebebe"
+         id="rect8" />
+    </clipPath>
+    <clipPath
+       id="clipPath10">
+      <rect
+         x="26.966"
+         y="221.33"
+         width="2.898"
+         height="5.216"
+         fill="#bebebe"
+         color="#bebebe"
+         id="rect12" />
+    </clipPath>
+    <clipPath
+       id="clipPath14">
+      <rect
+         x="26.85"
+         y="220.75"
+         width="3.825"
+         height="6.375"
+         fill="#bebebe"
+         color="#bebebe"
+         id="rect16" />
+    </clipPath>
+  </defs>
+  <path
+     d="M 5,3 2,6 2,10 5,13 5,9 C 5,9 6,9 6,8 6,7 5,7 5,7 z"
+     id="path18"
+     inkscape:connector-curvature="0"
+     style="fill:#bebebe"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     d="M 2,6 C 1,6 1,7 1,7 l 0,2 c 0,0 0,1 1,1 l 2.0067274,0 0,-4 z"
+     id="path20"
+     inkscape:connector-curvature="0"
+     style="fill:#bebebe"
+     sodipodi:nodetypes="sccsccs" />
+  <path
+     style="color:#000000;fill:#bebebe"
+     d="M 7.84375 5.5 L 6.78125 6.4375 C 7.3849966 7.3822079 7.3860713 8.6190876 6.78125 9.5625 L 7.84375 10.46875 C 8.9606213 8.9363696 8.9691226 7.026611 7.84375 5.5 z "
+     id="path26" />
+  <path
+     style="color:#000000;fill:#bebebe;fill-opacity:1"
+     d="M 10.1875 3.46875 L 8.6875 4.78125 C 10.374814 6.538566 10.383036 9.4678509 8.6875 11.21875 L 10.1875 12.53125 C 12.523359 10.037625 12.517359 5.9671065 10.1875 3.46875 z "
+     id="path28" />
+  <path
+     style="color:#000000;fill:#bebebe;fill-opacity:0.39759037"
+     d="M 12.40625 1.53125 L 10.875 2.875 C 13.637921 5.7502297 13.666421 10.303957 10.96875 13.21875 L 12.46875 14.53125 C 15.82928 10.872663 15.828918 5.1511315 12.40625 1.53125 z "
+     id="path30" />
 </svg>
